@@ -21,8 +21,8 @@
 ![изображение](https://github.com/user-attachments/assets/c3bb5fad-5185-47b6-b1c0-a5ec23b97876)
 
 ## Технологии
-Frontend: HTML, CSS, JavaScript, React.
-Backend: PHP, 
+Frontend: HTML, CSS, JavaScript, React.\
+Backend: PHP,\ 
 База данных: MySQL.
 ## Изображения
 1. Главная:\
