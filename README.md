@@ -23,7 +23,7 @@
 ## Технологии
 Frontend: HTML, CSS, JavaScript, React.\
 Backend: PHP.\ 
-База данных: MySQL.
+База данных: MySQL.\
 ## Изображения
 1. Главная:\
    ![изображение](https://github.com/user-attachments/assets/1b405eed-3dfe-4e34-9132-c43b41f356be)
