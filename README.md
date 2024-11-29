@@ -21,4 +21,19 @@
 ![изображение](https://github.com/user-attachments/assets/c3bb5fad-5185-47b6-b1c0-a5ec23b97876)
 
 ## Технологии
+Frontend: HTML, CSS, JavaScript, React.
+Backend: PHP, 
+База данных: MySQL.
+## Изображения
+1. Главная:
+   ![изображение](https://github.com/user-attachments/assets/1b405eed-3dfe-4e34-9132-c43b41f356be)
+2. Авторизация:
+   ![изображение](https://github.com/user-attachments/assets/e24f3c10-e0d8-4198-9a0f-e6bc0007bbbd)
+3. Регистрация:
+   ![изображение](https://github.com/user-attachments/assets/058b3882-df60-467b-bdfc-d59686d48347)
+4. Администратор:
+   ![изображение](https://github.com/user-attachments/assets/8f0b8603-d09c-4db2-abba-c85f3d040bb9)
 
+
+
+   
