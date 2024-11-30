@@ -24,7 +24,7 @@
 
 ## Технологии
 Frontend: HTML, CSS, JavaScript, React.\
-Backend: PHP, NoteJS.   
+Backend: PHP.   
 База данных: MySQL.
 ## Изображения
 1. Главная:\
