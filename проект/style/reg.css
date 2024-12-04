@@ -1,0 +1,94 @@
+header{
+    width: 50%;
+    height: 150px;
+    background-color: #E5D5CB;
+    margin-top: -8px;
+}
+body{
+    background-size: cover;
+    background-color: rgb(77, 77, 77);
+    display: flex;
+    justify-content: center;
+}
+.block{
+    width: 509px;
+    height: 599px;
+    background-color: #EDE1CF;
+    border-radius: 50px; 
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    margin: auto;
+    padding: 30px;
+    left: 40%;
+}
+.background{
+    top: 12%;
+    width: 49.7%;
+    height: 100%;
+    margin: auto;
+    position: fixed;
+}
+img{
+    width: 100%;
+    height: 100%;
+    margin-top: -9px;
+}
+.name{
+    border-radius: 50px;
+    width: 200px;
+    height: 30px;
+    margin-top: 3%;
+}
+.surname{
+    border-radius: 50px;
+    width: 200px;
+    height: 30px;
+    margin-top: 3%;
+}
+.phone{
+    border-radius: 50px;
+    width: 200px;
+    height: 30px;
+    margin-top: 3%;
+}
+.e-mail{
+    border-radius: 50px;
+    width: 200px;
+    height: 30px;
+    margin-top: 3%;
+}
+.password{
+    border-radius: 50px;
+    width: 200px;
+    height: 30px;
+    margin-top: 3%;
+}
+.Regist{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+.us{
+    float: right;
+}
+.Afisha{
+    float: right;
+}
+.Seans{
+    float: right;
+}
+a {
+    color: #000;
+    text-decoration: none
+}
+.submit{
+    border-radius: 50px;
+    background-color: white;
+    margin-top: 3%;
+}
+.image-container{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    top: 30px;
+}
