@@ -1,0 +1,146 @@
+*{
+    font-family: Arial, sans-serif;
+}
+header{
+    width: 50%;
+    height: 150px;
+    background-color: #E5D5CB;
+    margin-top: -8px;
+} 
+body{
+    background-size: cover;
+    background-color: rgb(77, 77, 77);
+    display: flex;
+    justify-content: center;
+}
+.background{
+    top: 12%;
+    width: 49.7%;
+    height: 110%;
+    margin: auto;
+    position: fixed;
+}
+img{
+    width: 100%;
+    height: 80%;
+    margin-top: -9px;
+}
+.afis{
+    position: fixed;
+    right: 50%;
+    border-radius: 50px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+}
+.sean{
+    position: fixed;
+    right: 45%;
+    border-radius: 50px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+}
+.image-container{
+    width: 150px;
+    height: 110px;
+    position: relative;
+    top: 30px;
+}
+.oplata{
+    width: 700px;
+    height: 600px;
+    background-color: #EDE1CF;
+    position: absolute;
+    position: fixed;
+    margin-top: 0 auto;
+    top: 30%;
+    border-radius: 15%;
+}
+.opl{
+    text-align: center;
+    position: relative;
+    top: 5%;
+    font-size: 22px;
+}
+.kopl{
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 10%;
+    font-size: 20px;
+}
+.carta{
+    width: 200px;
+    height: 50px;
+    position: relative;
+    top: 7%;
+    left: 0%;
+    font-size: 17px;
+}
+.karta{
+    position: relative;
+    top: 15%;
+    width: 300px;
+    height: 30px;
+    font-size: 17px;
+}
+.mounth{
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 6%;
+    font-size: 17px;
+}
+.year{
+    width: 100px;
+    height: 50px;
+    left: 17%;
+    position: relative;
+    bottom: 3%;
+    font-size: 17px;
+}
+.moun{
+    bottom: 10%;
+    position: relative;
+    width: 90px;
+    height: 20px;
+    font-size: 17px;
+}
+.yr{
+    bottom: 10%;
+    position: relative;
+    width: 90px;
+    height: 20px;
+    font-size: 17px;
+}
+.kod{
+    width: 100px;
+    height: 30px;
+    right: 27%;
+    position: absolute;
+    top: 41%;
+    font-size: 17px;
+}
+.cod{
+    width: 90px;
+    height: 20px;
+    position: absolute;
+    right: 30%;
+    top: 45%;
+    font-size: 17px;
+}
+.submit{
+    position: absolute;
+    width: 130px;
+    height: 60px;
+    border-radius: 15px;
+    right: 50%;
+    left: 40%;
+    background-color: white;
+    top: 75%;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}

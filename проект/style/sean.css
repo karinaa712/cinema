@@ -86,3 +86,29 @@ img{
     top: 10%;
     right: 10%;
 }
+.exit{
+    position: absolute;
+    right: 25.5%;
+    border-radius: 50px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+}
+.rastab{
+    position: fixed;
+    width: 300px;
+    height: 50px;
+    top: 20%;
+    left: 46%;
+    font-size: 22px; 
+    z-index: 9999;
+}
+.blok{
+    position: fixed;
+    width: 1000px;
+    height: 800px;
+    background-color: #EDE1CF;
+    left: 30%;
+    top: 15%;
+    border-radius: 40px;
+}

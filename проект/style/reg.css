@@ -1,3 +1,6 @@
+*{
+    font-family: Arial, sans-serif;
+}
 header{
     width: 50%;
     height: 150px;
@@ -36,46 +39,66 @@ img{
 }
 .name{
     border-radius: 50px;
-    width: 200px;
-    height: 30px;
+    width: 220px;
+    height: 35px;
     margin-top: 3%;
+    border: none;
 }
 .surname{
     border-radius: 50px;
-    width: 200px;
-    height: 30px;
+    width: 220px;
+    height: 35px;
     margin-top: 3%;
+    border: none;
 }
 .phone{
     border-radius: 50px;
-    width: 200px;
-    height: 30px;
+    width: 220px;
+    height: 35px;
     margin-top: 3%;
+    border: none;
 }
 .e-mail{
     border-radius: 50px;
-    width: 200px;
-    height: 30px;
+    width: 220px;
+    height: 35px;
     margin-top: 3%;
+    border: none;
 }
 .password{
     border-radius: 50px;
-    width: 200px;
-    height: 30px;
+    width: 220px;
+    height: 35px;
     margin-top: 3%;
+    border: none;
 }
 .Regist{
-    font-family: Arial, sans-serif;
     font-size: 20px;
 }
-.us{
-    float: right;
+.ent{
+    position: fixed;
+    right: 30%;
+    border-radius: 50px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
 }
-.Afisha{
-    float: right;
+.afis{
+    position: fixed;
+    right: 50%;
+    border-radius: 50px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    
 }
-.Seans{
-    float: right;
+.sean{
+    position: fixed;
+    right: 45%;
+    border-radius: 50px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
 }
 a {
     color: #000;
@@ -85,6 +108,9 @@ a {
     border-radius: 50px;
     background-color: white;
     margin-top: 3%;
+    width: 200px;
+    height: 35px;
+    top: 30px;
 }
 .image-container{
     width: 150px;
