@@ -1,0 +1,105 @@
+*{
+    font-family: Arial, sans-serif;
+}
+header{
+    width: 50%;
+    height: 150px;
+    background-color: #E5D5CB;
+    margin-top: -8px;
+} 
+body{
+    background-size: cover;
+    background-color: rgb(77, 77, 77);
+    display: flex;
+    justify-content: center;
+}
+footer{
+    width: 49.7%;
+    height: 150px;
+    background-color: #D89E88;
+    position: fixed;
+    bottom: 0;
+}
+.background{
+    top: 12%;
+    width: 49.7%;
+    height: 100%;
+    margin: auto;
+    position: fixed;
+}
+img{
+    width: 100%;
+    height: 80%;
+    margin-top: -9px;
+}
+form{
+    width: 600px;
+    height: 500px;
+    background-color: #EDE1CF;
+    position: absolute;
+    border-radius: 15px;
+    top: 30%;
+}
+.ext{
+    position: fixed;
+    right: 30%;
+    border-radius: 50px;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+}
+.image-container{
+    width: 150px;
+    height: 115px;
+    position: relative;
+    top: 30px;
+}
+.name{
+    position: relative;
+    width: 200px;
+    height: 20px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.surname{
+    position: relative;
+    width: 200px;
+    height: 20px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.phone{
+    position: relative;
+    width: 200px;
+    height: 20px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.e-mail{
+    position: relative;
+    width: 200px;
+    height: 20px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+.submit{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    position: relative;
+    margin: 0 auto;
+    top: 60%;
+}
+.adm{
+    position: absolute;
+    right: 40%;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
