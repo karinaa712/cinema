@@ -14,7 +14,7 @@ body{
     justify-content: center;
 }
 footer{
-    width: 49.7%;
+    width: 49.8%;
     height: 150px;
     background-color: #D89E88;
     position: fixed;
@@ -32,23 +32,7 @@ img{
     height: 80%;
     margin-top: -9px;
 }
-.afis{
-    position: fixed;
-    right: 50%;
-    border-radius: 50px;
-    background-color: white;
-    width: 100px;
-    height: 30px;
-}
-.sean{
-    position: fixed;
-    right: 45%;
-    border-radius: 50px;
-    background-color: white;
-    width: 100px;
-    height: 30px;
-}
-.akk{
+.ext{
     position: fixed;
     right: 30%;
     border-radius: 50px;
@@ -86,33 +70,89 @@ img{
     top: 10%;
     right: 10%;
 }
-.exit{
+.adm{
     position: absolute;
-    right: 25.5%;
-    border-radius: 50px;
-    background-color: white;
-    width: 100px;
-    height: 30px;
+    right: 40%;
 }
-.rastab{
-    position: fixed;
-    width: 300px;
-    height: 50px;
-    top: 20%;
-    left: 46%;
-    font-size: 22px; 
-    z-index: 9999;
-}
-.blok{
-    position: fixed;
-    width: 1000px;
-    height: 800px;
+form{
+    width: 700px;
+    height: 500px;
+    position: absolute;
     background-color: #EDE1CF;
+    margin: 0 auto;
+    border-radius: 15px;
+    top: 28%;
+}
+.name{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    left: 30%;
+    top: 10%;
+
+}
+.surname{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
     left: 30%;
     top: 15%;
-    border-radius: 40px;
+}
+.lastname{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    left: 30%;
+    top: 20%;
+}
+.date{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    left: 30%;
+    top: 25%;
+}
+.dolg{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    left: 30%;
+    top: 50%;
+    
 }
 a{
     color: #000;
     text-decoration: none;
+}
+.work{
+    font-size: 20px;
+    text-align: center;
+    top: 10%;
+}
+.dob{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-radius: 15px;
+    left: 35%;
+    top: 80%;
+}
+p{
+    height: 45px;
 }

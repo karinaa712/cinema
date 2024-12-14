@@ -48,7 +48,7 @@ img{
     width: 100px;
     height: 30px;
 }
-.akk{
+.ext{
     position: fixed;
     right: 30%;
     border-radius: 50px;
@@ -86,33 +86,85 @@ img{
     top: 10%;
     right: 10%;
 }
-.exit{
+form{
+    width: 700px;
+    height: 500px;
     position: absolute;
-    right: 25.5%;
-    border-radius: 50px;
-    background-color: white;
-    width: 100px;
-    height: 30px;
-}
-.rastab{
-    position: fixed;
-    width: 300px;
-    height: 50px;
-    top: 20%;
-    left: 46%;
-    font-size: 22px; 
-    z-index: 9999;
-}
-.blok{
-    position: fixed;
-    width: 1000px;
-    height: 800px;
     background-color: #EDE1CF;
-    left: 30%;
-    top: 15%;
-    border-radius: 40px;
+    margin: 0 auto;
+    border-radius: 15px;
+    top: 28%;
+}
+.name{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    left: 35%;
+    right: 50%;
+    top: 10%;
+}
+.surname{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    float: center;
+    margin: auto;
+    left: 35%;
+    right: 50%;
+    top: 20%;
+}
+.phone{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    float: center;
+    margin: auto;
+    left: 35%;
+    right: 50%;
+    top: 30%;
+}
+.e-mail{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    float: center;
+    margin: auto;
+    left: 35%;
+    right: 50%;
+    top: 40%;
 }
 a{
     color: #000;
     text-decoration: none;
+}
+.reduct{
+    position: absolute;
+    left: 35%;
+    right: 50%;
+    width: 250px;
+    height: 100px;
+    font-size: 20px;
+}
+.del{
+    position: absolute;
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    background-color: white;
+    font-size: 15px;
+    left: 35%;
+    right: 50%;
+    top: 60%;
 }

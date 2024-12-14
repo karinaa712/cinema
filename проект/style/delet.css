@@ -20,6 +20,30 @@ footer{
     position: fixed;
     bottom: 0;
 }
+.adres{
+    position: absolute;
+    top: 10%;
+    left: 3%;
+}
+.prava{
+    position: absolute;
+    margin-top: 0 auto;
+    top: 80%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.contact{
+    position: absolute;
+    margin-top: 0 auto;
+    left: 20%;
+    top: 10%;
+}
+.time{
+    position: absolute;
+    margin-top: 0 auto;
+    top: 10%;
+    right: 10%;
+}
 .background{
     top: 12%;
     width: 49.7%;
@@ -54,46 +78,87 @@ form{
     position: relative;
     top: 30px;
 }
+form{
+    width: 700px;
+    height: 500px;
+    position: absolute;
+    background-color: #EDE1CF;
+    margin: 0 auto;
+    border-radius: 15px;
+    top: 28%;
+}
 .name{
     position: relative;
-    width: 200px;
-    height: 20px;
-    background-color: white;
-    border-radius: 15px;
-    margin: 0 auto;
-}
-.surname{
-    position: relative;
-    width: 200px;
-    height: 20px;
-    background-color: white;
-    border-radius: 15px;
-    margin: 0 auto;
-}
-.phone{
-    position: relative;
-    width: 200px;
-    height: 20px;
-    background-color: white;
-    border-radius: 15px;
-    margin: 0 auto;
-}
-.e-mail{
-    position: relative;
-    width: 200px;
-    height: 20px;
-    background-color: white;
-    border-radius: 15px;
-    margin: 0 auto;
-}
-.submit{
-    width: 200px;
+    width: 250px;
     height: 30px;
     background-color: white;
     border-radius: 15px;
-    position: relative;
     margin: 0 auto;
-    top: 60%;
+    left: 30%;
+    top: 10%;
+
+}
+.surname{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    left: 30%;
+    top: 15%;
+}
+.phone{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    left: 30%;
+    top: 20%;
+}
+.e-mail{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    left: 30%;
+    top: 25%;
+}
+.dolg{
+    position: relative;
+    width: 250px;
+    height: 30px;
+    background-color: white;
+    border-radius: 15px;
+    margin: 0 auto;
+    left: 30%;
+    top: 50%;
+    
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
+.delet{
+    font-size: 20px;
+    text-align: center;
+    top: 10%;
+}
+.del{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border-radius: 15px;
+    left: 35%;
+    top: 80%;
+}
+p{
+    height: 45px;
 }
 .adm{
     position: absolute;

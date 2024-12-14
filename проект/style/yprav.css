@@ -14,7 +14,7 @@ body{
     justify-content: center;
 }
 footer{
-    width: 49.7%;
+    width: 49.8%;
     height: 150px;
     background-color: #D89E88;
     position: fixed;
@@ -32,23 +32,7 @@ img{
     height: 80%;
     margin-top: -9px;
 }
-.afis{
-    position: fixed;
-    right: 50%;
-    border-radius: 50px;
-    background-color: white;
-    width: 100px;
-    height: 30px;
-}
-.sean{
-    position: fixed;
-    right: 45%;
-    border-radius: 50px;
-    background-color: white;
-    width: 100px;
-    height: 30px;
-}
-.akk{
+.ext{
     position: fixed;
     right: 30%;
     border-radius: 50px;
@@ -86,31 +70,42 @@ img{
     top: 10%;
     right: 10%;
 }
-.exit{
+.yprav{
     position: absolute;
-    right: 25.5%;
-    border-radius: 50px;
-    background-color: white;
-    width: 100px;
-    height: 30px;
+    right: 40%;
 }
-.rastab{
-    position: fixed;
+.panel{
     width: 300px;
-    height: 50px;
-    top: 20%;
-    left: 46%;
-    font-size: 22px; 
-    z-index: 9999;
-}
-.blok{
-    position: fixed;
-    width: 1000px;
-    height: 800px;
+    height: 350px;
     background-color: #EDE1CF;
-    left: 30%;
-    top: 15%;
-    border-radius: 40px;
+    position: absolute;
+    border-radius: 15px;
+    top: 30%;
+    left: 28%;
+}
+.obnovaafis{
+    position: absolute;
+    width: 200px;
+    height: 25px;
+    border-radius: 15px;
+    background-color: white;
+    top: 10%;
+}
+.deleted{
+    position: absolute;
+    width: 300px;
+    height: 25px;
+    border-radius: 15px;
+    background-color: white;
+    top: 25%;
+}
+.databas{
+    position: absolute;
+    width: 250px;
+    height: 25px;
+    border-radius: 15px;
+    background-color: white;
+    top: 40%;
 }
 a{
     color: #000;
